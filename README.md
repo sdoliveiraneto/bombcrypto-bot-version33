@@ -1,8 +1,8 @@
 # bombcrypto-bot-version33
 
-Bot feito pelo https://github.com/MatheusHAS fiz somente adição da nova tela de login.
+# Bot feito pelo https://github.com/MatheusHAS fiz somente adição da nova tela de login.
 
-Funções extras adicionadas
+# Funções extras adicionadas
 Usar navegador com zoom diferente (escala)
 Suporte a multiplas contas no mesmo monitor (usar URL do IFRAME para acessar)
 Debug por funções do jogo
